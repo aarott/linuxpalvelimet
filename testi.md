@@ -10,4 +10,4 @@ This would be my first test
     https://www.google.com
 
 
-![Add file: Upload](test.png)
+![Add file: Upload](Test.PNG)
